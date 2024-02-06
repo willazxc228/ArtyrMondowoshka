@@ -1,0 +1,14 @@
+class Catnap { }
+class Point { x: number; y: number; }
+function Artyrlox() {
+  let point: Point;
+};
+let point: Point = new Point();
+function Movie() {
+  point.x = 1; point.y = 2;
+};
+class Point3D { x: number; y: number; z: number; }
+let poin: Point3D = new Point3D();
+function Movie3D() {
+  poin.x = 1; poin.y = 2; poin.z = 3;
+};
